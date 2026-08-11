@@ -1,4 +1,4 @@
-# Mes Recettes — Application Flutter multi-écrans
+# Mes Recettes: Application Flutter multi-écrans
 
 Application Flutter de gestion de recettes de cuisine, avec navigation multi-écrans, recherche, favoris et thème clair/sombre.
 
